@@ -1,0 +1,17 @@
+
+**Loan Interest Rate Policy 2024**
+1. Floating Rate Loans: Interest rates for home loans are linked to the repo rate. Currently, the base rate is 8.5%.
+2. Fixed Rate Loans: Personal loans have a fixed interest rate between 10.5% and 14% based on credit score.
+3. Prepayment: No prepayment penalty for floating rate home loans. For personal loans, a 2% penalty applies if closed before 12 months.
+4. Late Payment: A penalty of 2% per month on the overdue amount is applicable.
+
+**Account Safety Guidelines**
+- Never share your OTP, PIN, or CVV.
+- Bank officials will never ask for sensitive details over the phone.
+- Report lost cards immediately via the mobile app.
+
+**EMI Calculation Formula**
+EMI = [P x R x (1+R)^N]/[(1+R)^N-1]
+Where P is Principal, R is monthly interest rate, and N is tenure in months.
+For Example: If P = 1,00,000, R = 1% (12% per annum), N = 12 months.
+EMI = 100000 * 0.01 * (1.01)^12 / ((1.01)^12 - 1) = 8885.

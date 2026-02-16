@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+scikit-learn
+chromadb
+uvloop
+httpx
+pydantic
+llama-cpp-python

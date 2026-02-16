@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "What is the eligibility for a Personal Loan?",
+        "input": "",
+        "output": "Eligibility for Personal Loan: Age 21-60, Minimum Income \u20b925,000/month, Credit Score 750+. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Am I eligible for a Personal Loan?",
+        "input": "",
+        "output": "Eligibility for Personal Loan: Age 21-60, Minimum Income \u20b925,000/month, Credit Score 750+. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Attributes required for Personal Loan approval.",
+        "input": "",
+        "output": "Eligibility for Personal Loan: Age 21-60, Minimum Income \u20b925,000/month, Credit Score 750+. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Who can apply for a Personal Loan?",
+        "input": "",
+        "output": "Eligibility for Personal Loan: Age 21-60, Minimum Income \u20b925,000/month, Credit Score 750+. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "What is the eligibility for a Home Loan?",
+        "input": "",
+        "output": "Eligibility for Home Loan: Age 23-65, Salaried/Self-employed, Stable Income for 2 years. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Am I eligible for a Home Loan?",
+        "input": "",
+        "output": "Eligibility for Home Loan: Age 23-65, Salaried/Self-employed, Stable Income for 2 years. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Attributes required for Home Loan approval.",
+        "input": "",
+        "output": "Eligibility for Home Loan: Age 23-65, Salaried/Self-employed, Stable Income for 2 years. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Who can apply for a Home Loan?",
+        "input": "",
+        "output": "Eligibility for Home Loan: Age 23-65, Salaried/Self-employed, Stable Income for 2 years. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "What is the eligibility for a Car Loan?",
+        "input": "",
+        "output": "Eligibility for Car Loan: Age 21-65, Minimum Annual Income \u20b93 Lakhs. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Am I eligible for a Car Loan?",
+        "input": "",
+        "output": "Eligibility for Car Loan: Age 21-65, Minimum Annual Income \u20b93 Lakhs. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Attributes required for Car Loan approval.",
+        "input": "",
+        "output": "Eligibility for Car Loan: Age 21-65, Minimum Annual Income \u20b93 Lakhs. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Who can apply for a Car Loan?",
+        "input": "",
+        "output": "Eligibility for Car Loan: Age 21-65, Minimum Annual Income \u20b93 Lakhs. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "What is the eligibility for a Education Loan?",
+        "input": "",
+        "output": "Eligibility for Education Loan: Indian Resident, Admission in recognized institution, Co-applicant required. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Am I eligible for a Education Loan?",
+        "input": "",
+        "output": "Eligibility for Education Loan: Indian Resident, Admission in recognized institution, Co-applicant required. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Attributes required for Education Loan approval.",
+        "input": "",
+        "output": "Eligibility for Education Loan: Indian Resident, Admission in recognized institution, Co-applicant required. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Who can apply for a Education Loan?",
+        "input": "",
+        "output": "Eligibility for Education Loan: Indian Resident, Admission in recognized institution, Co-applicant required. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "What is the eligibility for a Business Loan?",
+        "input": "",
+        "output": "Eligibility for Business Loan: Business vintage 3 years, Profitable for last 2 years. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Am I eligible for a Business Loan?",
+        "input": "",
+        "output": "Eligibility for Business Loan: Business vintage 3 years, Profitable for last 2 years. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Attributes required for Business Loan approval.",
+        "input": "",
+        "output": "Eligibility for Business Loan: Business vintage 3 years, Profitable for last 2 years. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Who can apply for a Business Loan?",
+        "input": "",
+        "output": "Eligibility for Business Loan: Business vintage 3 years, Profitable for last 2 years. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "What is the eligibility for a Gold Loan?",
+        "input": "",
+        "output": "Eligibility for Gold Loan: Age 18-70, Own gold ornaments/coins. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Am I eligible for a Gold Loan?",
+        "input": "",
+        "output": "Eligibility for Gold Loan: Age 18-70, Own gold ornaments/coins. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Attributes required for Gold Loan approval.",
+        "input": "",
+        "output": "Eligibility for Gold Loan: Age 18-70, Own gold ornaments/coins. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "Who can apply for a Gold Loan?",
+        "input": "",
+        "output": "Eligibility for Gold Loan: Age 18-70, Own gold ornaments/coins. Ensure you meet these criteria before applying."
+    },
+    {
+        "instruction": "What is the interest rate for a Personal Loan?",
+        "input": "",
+        "output": "The current interest rate for Personal Loan ranges from 10.5% - 14%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Current Personal Loan interest rates.",
+        "input": "",
+        "output": "The current interest rate for Personal Loan ranges from 10.5% - 14%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "How much interest do you charge for Personal Loan?",
+        "input": "",
+        "output": "The current interest rate for Personal Loan ranges from 10.5% - 14%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Is the Personal Loan interest rate fixed or floating?",
+        "input": "",
+        "output": "The current interest rate for Personal Loan ranges from 10.5% - 14%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "What is the interest rate for a Home Loan?",
+        "input": "",
+        "output": "The current interest rate for Home Loan ranges from 8.5% - 9.5%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Current Home Loan interest rates.",
+        "input": "",
+        "output": "The current interest rate for Home Loan ranges from 8.5% - 9.5%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "How much interest do you charge for Home Loan?",
+        "input": "",
+        "output": "The current interest rate for Home Loan ranges from 8.5% - 9.5%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Is the Home Loan interest rate fixed or floating?",
+        "input": "",
+        "output": "The current interest rate for Home Loan ranges from 8.5% - 9.5%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "What is the interest rate for a Car Loan?",
+        "input": "",
+        "output": "The current interest rate for Car Loan ranges from 9% - 11%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Current Car Loan interest rates.",
+        "input": "",
+        "output": "The current interest rate for Car Loan ranges from 9% - 11%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "How much interest do you charge for Car Loan?",
+        "input": "",
+        "output": "The current interest rate for Car Loan ranges from 9% - 11%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Is the Car Loan interest rate fixed or floating?",
+        "input": "",
+        "output": "The current interest rate for Car Loan ranges from 9% - 11%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "What is the interest rate for a Education Loan?",
+        "input": "",
+        "output": "The current interest rate for Education Loan ranges from 9.5% - 12%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Current Education Loan interest rates.",
+        "input": "",
+        "output": "The current interest rate for Education Loan ranges from 9.5% - 12%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "How much interest do you charge for Education Loan?",
+        "input": "",
+        "output": "The current interest rate for Education Loan ranges from 9.5% - 12%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Is the Education Loan interest rate fixed or floating?",
+        "input": "",
+        "output": "The current interest rate for Education Loan ranges from 9.5% - 12%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "What is the interest rate for a Business Loan?",
+        "input": "",
+        "output": "The current interest rate for Business Loan ranges from 11% - 16%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Current Business Loan interest rates.",
+        "input": "",
+        "output": "The current interest rate for Business Loan ranges from 11% - 16%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "How much interest do you charge for Business Loan?",
+        "input": "",
+        "output": "The current interest rate for Business Loan ranges from 11% - 16%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Is the Business Loan interest rate fixed or floating?",
+        "input": "",
+        "output": "The current interest rate for Business Loan ranges from 11% - 16%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "What is the interest rate for a Gold Loan?",
+        "input": "",
+        "output": "The current interest rate for Gold Loan ranges from 7% - 9%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Current Gold Loan interest rates.",
+        "input": "",
+        "output": "The current interest rate for Gold Loan ranges from 7% - 9%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "How much interest do you charge for Gold Loan?",
+        "input": "",
+        "output": "The current interest rate for Gold Loan ranges from 7% - 9%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Is the Gold Loan interest rate fixed or floating?",
+        "input": "",
+        "output": "The current interest rate for Gold Loan ranges from 7% - 9%. Rates may vary based on your credit score and relationship with the bank."
+    },
+    {
+        "instruction": "Documents needed for Personal Loan?",
+        "input": "",
+        "output": "To apply for a Personal Loan, please submit: ID Proof, Address Proof, Last 3 months Salary Slips, Bank Statements."
+    },
+    {
+        "instruction": "What paperwork is required for Personal Loan?",
+        "input": "",
+        "output": "To apply for a Personal Loan, please submit: ID Proof, Address Proof, Last 3 months Salary Slips, Bank Statements."
+    },
+    {
+        "instruction": "List of documents for Personal Loan application.",
+        "input": "",
+        "output": "To apply for a Personal Loan, please submit: ID Proof, Address Proof, Last 3 months Salary Slips, Bank Statements."
+    },
+    {
+        "instruction": "Do I need ITR for Personal Loan?",
+        "input": "",
+        "output": "To apply for a Personal Loan, please submit: ID Proof, Address Proof, Last 3 months Salary Slips, Bank Statements."
+    },
+    {
+        "instruction": "Documents needed for Home Loan?",
+        "input": "",
+        "output": "To apply for a Home Loan, please submit: Property Papers, Income Proof (ITR/Salary Slips), ID & Address Proof."
+    },
+    {
+        "instruction": "What paperwork is required for Home Loan?",
+        "input": "",
+        "output": "To apply for a Home Loan, please submit: Property Papers, Income Proof (ITR/Salary Slips), ID & Address Proof."
+    },
+    {
+        "instruction": "List of documents for Home Loan application.",
+        "input": "",
+        "output": "To apply for a Home Loan, please submit: Property Papers, Income Proof (ITR/Salary Slips), ID & Address Proof."
+    },
+    {
+        "instruction": "Do I need ITR for Home Loan?",
+        "input": "",
+        "output": "To apply for a Home Loan, please submit: Property Papers, Income Proof (ITR/Salary Slips), ID & Address Proof."
+    },
+    {
+        "instruction": "Documents needed for Car Loan?",
+        "input": "",
+        "output": "To apply for a Car Loan, please submit: Vehicle Quotation, ID Proof, Income Proof, Bank Statement."
+    },
+    {
+        "instruction": "What paperwork is required for Car Loan?",
+        "input": "",
+        "output": "To apply for a Car Loan, please submit: Vehicle Quotation, ID Proof, Income Proof, Bank Statement."
+    },
+    {
+        "instruction": "List of documents for Car Loan application.",
+        "input": "",
+        "output": "To apply for a Car Loan, please submit: Vehicle Quotation, ID Proof, Income Proof, Bank Statement."
+    },
+    {
+        "instruction": "Do I need ITR for Car Loan?",
+        "input": "",
+        "output": "To apply for a Car Loan, please submit: Vehicle Quotation, ID Proof, Income Proof, Bank Statement."
+    },
+    {
+        "instruction": "Documents needed for Education Loan?",
+        "input": "",
+        "output": "To apply for a Education Loan, please submit: Admission Letter, Fee Structure, KYC of Student & Co-applicant."
+    },
+    {
+        "instruction": "What paperwork is required for Education Loan?",
+        "input": "",
+        "output": "To apply for a Education Loan, please submit: Admission Letter, Fee Structure, KYC of Student & Co-applicant."
+    },
+    {
+        "instruction": "List of documents for Education Loan application.",
+        "input": "",
+        "output": "To apply for a Education Loan, please submit: Admission Letter, Fee Structure, KYC of Student & Co-applicant."
+    },
+    {
+        "instruction": "Do I need ITR for Education Loan?",
+        "input": "",
+        "output": "To apply for a Education Loan, please submit: Admission Letter, Fee Structure, KYC of Student & Co-applicant."
+    },
+    {
+        "instruction": "Documents needed for Business Loan?",
+        "input": "",
+        "output": "To apply for a Business Loan, please submit: Business Registration, GST Returns, Bank Statements (6 months), ITR."
+    },
+    {
+        "instruction": "What paperwork is required for Business Loan?",
+        "input": "",
+        "output": "To apply for a Business Loan, please submit: Business Registration, GST Returns, Bank Statements (6 months), ITR."
+    },
+    {
+        "instruction": "List of documents for Business Loan application.",
+        "input": "",
+        "output": "To apply for a Business Loan, please submit: Business Registration, GST Returns, Bank Statements (6 months), ITR."
+    },
+    {
+        "instruction": "Do I need ITR for Business Loan?",
+        "input": "",
+        "output": "To apply for a Business Loan, please submit: Business Registration, GST Returns, Bank Statements (6 months), ITR."
+    },
+    {
+        "instruction": "Documents needed for Gold Loan?",
+        "input": "",
+        "output": "To apply for a Gold Loan, please submit: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "What paperwork is required for Gold Loan?",
+        "input": "",
+        "output": "To apply for a Gold Loan, please submit: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "List of documents for Gold Loan application.",
+        "input": "",
+        "output": "To apply for a Gold Loan, please submit: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "Do I need ITR for Gold Loan?",
+        "input": "",
+        "output": "To apply for a Gold Loan, please submit: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "Can I prepay my Personal Loan?",
+        "input": "",
+        "output": "Yes, you can prepay your Personal Loan after a lock-in period of 6-12 months. Prepayment charges differ based on the loan type (usually 0% for floating rate loans)."
+    },
+    {
+        "instruction": "Is there a penalty for Personal Loan foreclosure?",
+        "input": "",
+        "output": "Foreclosure charges for Personal Loan typically range from 2% to 4% of the outstanding principal. No charges for individual borrowers on floating rate loans."
+    },
+    {
+        "instruction": "What is the maximum tenure for Personal Loan?",
+        "input": "",
+        "output": "The maximum tenure for a Personal Loan is typically up to 36 months, depending on the bank's policy."
+    },
+    {
+        "instruction": "How is Personal Loan EMI calculated?",
+        "input": "",
+        "output": "Personal Loan EMI is calculated based on Principal amount, Interest rate, and Tenure. You can use our online EMI calculator for precise figures."
+    },
+    {
+        "instruction": "Can I prepay my Home Loan?",
+        "input": "",
+        "output": "Yes, you can prepay your Home Loan after a lock-in period of 6-12 months. Prepayment charges differ based on the loan type (usually 0% for floating rate loans)."
+    },
+    {
+        "instruction": "Is there a penalty for Home Loan foreclosure?",
+        "input": "",
+        "output": "Foreclosure charges for Home Loan typically range from 2% to 4% of the outstanding principal. No charges for individual borrowers on floating rate loans."
+    },
+    {
+        "instruction": "What is the maximum tenure for Home Loan?",
+        "input": "",
+        "output": "The maximum tenure for a Home Loan is typically up to 10 years, depending on the bank's policy."
+    },
+    {
+        "instruction": "How is Home Loan EMI calculated?",
+        "input": "",
+        "output": "Home Loan EMI is calculated based on Principal amount, Interest rate, and Tenure. You can use our online EMI calculator for precise figures."
+    },
+    {
+        "instruction": "Can I prepay my Car Loan?",
+        "input": "",
+        "output": "Yes, you can prepay your Car Loan after a lock-in period of 6-12 months. Prepayment charges differ based on the loan type (usually 0% for floating rate loans)."
+    },
+    {
+        "instruction": "Is there a penalty for Car Loan foreclosure?",
+        "input": "",
+        "output": "Foreclosure charges for Car Loan typically range from 2% to 4% of the outstanding principal. No charges for individual borrowers on floating rate loans."
+    },
+    {
+        "instruction": "What is the maximum tenure for Car Loan?",
+        "input": "",
+        "output": "The maximum tenure for a Car Loan is typically up to 10 years, depending on the bank's policy."
+    },
+    {
+        "instruction": "How is Car Loan EMI calculated?",
+        "input": "",
+        "output": "Car Loan EMI is calculated based on Principal amount, Interest rate, and Tenure. You can use our online EMI calculator for precise figures."
+    },
+    {
+        "instruction": "Can I prepay my Education Loan?",
+        "input": "",
+        "output": "Yes, you can prepay your Education Loan after a lock-in period of 6-12 months. Prepayment charges differ based on the loan type (usually 0% for floating rate loans)."
+    },
+    {
+        "instruction": "Is there a penalty for Education Loan foreclosure?",
+        "input": "",
+        "output": "Foreclosure charges for Education Loan typically range from 2% to 4% of the outstanding principal. No charges for individual borrowers on floating rate loans."
+    },
+    {
+        "instruction": "What is the maximum tenure for Education Loan?",
+        "input": "",
+        "output": "The maximum tenure for a Education Loan is typically up to 20 years, depending on the bank's policy."
+    },
+    {
+        "instruction": "How is Education Loan EMI calculated?",
+        "input": "",
+        "output": "Education Loan EMI is calculated based on Principal amount, Interest rate, and Tenure. You can use our online EMI calculator for precise figures."
+    },
+    {
+        "instruction": "Can I prepay my Business Loan?",
+        "input": "",
+        "output": "Yes, you can prepay your Business Loan after a lock-in period of 6-12 months. Prepayment charges differ based on the loan type (usually 0% for floating rate loans)."
+    },
+    {
+        "instruction": "Is there a penalty for Business Loan foreclosure?",
+        "input": "",
+        "output": "Foreclosure charges for Business Loan typically range from 2% to 4% of the outstanding principal. No charges for individual borrowers on floating rate loans."
+    },
+    {
+        "instruction": "What is the maximum tenure for Business Loan?",
+        "input": "",
+        "output": "The maximum tenure for a Business Loan is typically up to 20 years, depending on the bank's policy."
+    },
+    {
+        "instruction": "How is Business Loan EMI calculated?",
+        "input": "",
+        "output": "Business Loan EMI is calculated based on Principal amount, Interest rate, and Tenure. You can use our online EMI calculator for precise figures."
+    },
+    {
+        "instruction": "Can I prepay my Gold Loan?",
+        "input": "",
+        "output": "Yes, you can prepay your Gold Loan after a lock-in period of 6-12 months. Prepayment charges differ based on the loan type (usually 0% for floating rate loans)."
+    },
+    {
+        "instruction": "Is there a penalty for Gold Loan foreclosure?",
+        "input": "",
+        "output": "Foreclosure charges for Gold Loan typically range from 2% to 4% of the outstanding principal. No charges for individual borrowers on floating rate loans."
+    },
+    {
+        "instruction": "What is the maximum tenure for Gold Loan?",
+        "input": "",
+        "output": "The maximum tenure for a Gold Loan is typically up to 12 months, depending on the bank's policy."
+    },
+    {
+        "instruction": "How is Gold Loan EMI calculated?",
+        "input": "",
+        "output": "Gold Loan EMI is calculated based on Principal amount, Interest rate, and Tenure. You can use our online EMI calculator for precise figures."
+    },
+    {
+        "instruction": "How do I check my account balance?",
+        "input": "",
+        "output": "You can check your balance via Mobile Banking App, NetBanking, SMS 'BAL' to 56767, or by visiting the nearest ATM."
+    },
+    {
+        "instruction": "What is the customer care number?",
+        "input": "",
+        "output": "Our 24/7 customer care number is 1800-123-4567. You can also email us at support@bank.com."
+    },
+    {
+        "instruction": "How to block my lost debit card?",
+        "input": "",
+        "output": "To block your debit card immediately, log in to NetBanking/Mobile App > Cards > Block Card, or call customer care at 1800-123-4567."
+    },
+    {
+        "instruction": "What are the branch working hours?",
+        "input": "",
+        "output": "Our branches are open Monday to Saturday (except 2nd & 4th Saturdays) from 10:00 AM to 4:00 PM."
+    },
+    {
+        "instruction": "How to change my registered mobile number?",
+        "input": "",
+        "output": "Visit your nearest branch with a valid ID proof and fill out the 'Change of Contact Details' form. Update takes 24-48 hours."
+    },
+    {
+        "instruction": "What is NEFT and RTGS timing?",
+        "input": "",
+        "output": "NEFT transactions are available 24x7. RTGS is available from 7:00 AM to 6:00 PM strictly for high-value transactions (above \u20b92 Lakhs)."
+    },
+    {
+        "instruction": "How to apply for a credit card?",
+        "input": "",
+        "output": "You can apply for a credit card through our website, mobile app, or by visiting a branch. Eligibility depends on income and credit score."
+    },
+    {
+        "instruction": "What is the minimum balance requirement?",
+        "input": "",
+        "output": "For a regular savings account, the minimum average monthly balance (MAB) is \u20b910,000 for metro branches and \u20b95,000 for rural branches."
+    },
+    {
+        "instruction": "How to activate net banking?",
+        "input": "",
+        "output": "Go to our website, click 'New User Registration', enter your Customer ID and Account Number, and verify using OTP sent to your registered mobile."
+    },
+    {
+        "instruction": "What is UPI transaction limit?",
+        "input": "",
+        "output": "The standard UPI transaction limit is \u20b91 Lakh per day, but it may vary for specific apps or first-time users."
+    },
+    {
+        "instruction": "Papers for Gold Loan application.",
+        "input": "",
+        "output": "Required documents for Gold Loan: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "Can I get a Personal Loan?",
+        "input": "",
+        "output": "To get a Personal Loan, you generally need: Age 21-60, Minimum Income \u20b925,000/month, Credit Score 750+."
+    },
+    {
+        "instruction": "Can I get a Business Loan?",
+        "input": "",
+        "output": "To get a Business Loan, you generally need: Business vintage 3 years, Profitable for last 2 years."
+    },
+    {
+        "instruction": "Tell me about the interest for Education Loan.",
+        "input": "",
+        "output": "Education Loan interest rates are currently 9.5% - 12%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Can I get a Business Loan?",
+        "input": "",
+        "output": "To get a Business Loan, you generally need: Business vintage 3 years, Profitable for last 2 years."
+    },
+    {
+        "instruction": "Tell me about the interest for Education Loan.",
+        "input": "",
+        "output": "Education Loan interest rates are currently 9.5% - 12%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Tell me about the interest for Business Loan.",
+        "input": "",
+        "output": "Business Loan interest rates are currently 11% - 16%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Tell me about the interest for Car Loan.",
+        "input": "",
+        "output": "Car Loan interest rates are currently 9% - 11%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Can I get a Education Loan?",
+        "input": "",
+        "output": "To get a Education Loan, you generally need: Indian Resident, Admission in recognized institution, Co-applicant required."
+    },
+    {
+        "instruction": "Tell me about the interest for Car Loan.",
+        "input": "",
+        "output": "Car Loan interest rates are currently 9% - 11%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Papers for Gold Loan application.",
+        "input": "",
+        "output": "Required documents for Gold Loan: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "Can I get a Education Loan?",
+        "input": "",
+        "output": "To get a Education Loan, you generally need: Indian Resident, Admission in recognized institution, Co-applicant required."
+    },
+    {
+        "instruction": "Papers for Education Loan application.",
+        "input": "",
+        "output": "Required documents for Education Loan: Admission Letter, Fee Structure, KYC of Student & Co-applicant."
+    },
+    {
+        "instruction": "Can I get a Car Loan?",
+        "input": "",
+        "output": "To get a Car Loan, you generally need: Age 21-65, Minimum Annual Income \u20b93 Lakhs."
+    },
+    {
+        "instruction": "Tell me about the interest for Personal Loan.",
+        "input": "",
+        "output": "Personal Loan interest rates are currently 10.5% - 14%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Can I get a Gold Loan?",
+        "input": "",
+        "output": "To get a Gold Loan, you generally need: Age 18-70, Own gold ornaments/coins."
+    },
+    {
+        "instruction": "Tell me about the interest for Car Loan.",
+        "input": "",
+        "output": "Car Loan interest rates are currently 9% - 11%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Tell me about the interest for Car Loan.",
+        "input": "",
+        "output": "Car Loan interest rates are currently 9% - 11%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Tell me about the interest for Car Loan.",
+        "input": "",
+        "output": "Car Loan interest rates are currently 9% - 11%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Tell me about the interest for Education Loan.",
+        "input": "",
+        "output": "Education Loan interest rates are currently 9.5% - 12%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Can I get a Gold Loan?",
+        "input": "",
+        "output": "To get a Gold Loan, you generally need: Age 18-70, Own gold ornaments/coins."
+    },
+    {
+        "instruction": "Papers for Home Loan application.",
+        "input": "",
+        "output": "Required documents for Home Loan: Property Papers, Income Proof (ITR/Salary Slips), ID & Address Proof."
+    },
+    {
+        "instruction": "Can I get a Home Loan?",
+        "input": "",
+        "output": "To get a Home Loan, you generally need: Age 23-65, Salaried/Self-employed, Stable Income for 2 years."
+    },
+    {
+        "instruction": "Can I get a Car Loan?",
+        "input": "",
+        "output": "To get a Car Loan, you generally need: Age 21-65, Minimum Annual Income \u20b93 Lakhs."
+    },
+    {
+        "instruction": "Can I get a Business Loan?",
+        "input": "",
+        "output": "To get a Business Loan, you generally need: Business vintage 3 years, Profitable for last 2 years."
+    },
+    {
+        "instruction": "Tell me about the interest for Business Loan.",
+        "input": "",
+        "output": "Business Loan interest rates are currently 11% - 16%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Can I get a Car Loan?",
+        "input": "",
+        "output": "To get a Car Loan, you generally need: Age 21-65, Minimum Annual Income \u20b93 Lakhs."
+    },
+    {
+        "instruction": "Can I get a Home Loan?",
+        "input": "",
+        "output": "To get a Home Loan, you generally need: Age 23-65, Salaried/Self-employed, Stable Income for 2 years."
+    },
+    {
+        "instruction": "Can I get a Personal Loan?",
+        "input": "",
+        "output": "To get a Personal Loan, you generally need: Age 21-60, Minimum Income \u20b925,000/month, Credit Score 750+."
+    },
+    {
+        "instruction": "Tell me about the interest for Personal Loan.",
+        "input": "",
+        "output": "Personal Loan interest rates are currently 10.5% - 14%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Tell me about the interest for Personal Loan.",
+        "input": "",
+        "output": "Personal Loan interest rates are currently 10.5% - 14%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Tell me about the interest for Business Loan.",
+        "input": "",
+        "output": "Business Loan interest rates are currently 11% - 16%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Can I get a Education Loan?",
+        "input": "",
+        "output": "To get a Education Loan, you generally need: Indian Resident, Admission in recognized institution, Co-applicant required."
+    },
+    {
+        "instruction": "Tell me about the interest for Business Loan.",
+        "input": "",
+        "output": "Business Loan interest rates are currently 11% - 16%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Papers for Gold Loan application.",
+        "input": "",
+        "output": "Required documents for Gold Loan: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "Can I get a Car Loan?",
+        "input": "",
+        "output": "To get a Car Loan, you generally need: Age 21-65, Minimum Annual Income \u20b93 Lakhs."
+    },
+    {
+        "instruction": "Tell me about the interest for Education Loan.",
+        "input": "",
+        "output": "Education Loan interest rates are currently 9.5% - 12%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Can I get a Gold Loan?",
+        "input": "",
+        "output": "To get a Gold Loan, you generally need: Age 18-70, Own gold ornaments/coins."
+    },
+    {
+        "instruction": "Papers for Gold Loan application.",
+        "input": "",
+        "output": "Required documents for Gold Loan: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "Tell me about the interest for Car Loan.",
+        "input": "",
+        "output": "Car Loan interest rates are currently 9% - 11%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Papers for Gold Loan application.",
+        "input": "",
+        "output": "Required documents for Gold Loan: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "Tell me about the interest for Car Loan.",
+        "input": "",
+        "output": "Car Loan interest rates are currently 9% - 11%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Can I get a Car Loan?",
+        "input": "",
+        "output": "To get a Car Loan, you generally need: Age 21-65, Minimum Annual Income \u20b93 Lakhs."
+    },
+    {
+        "instruction": "Can I get a Business Loan?",
+        "input": "",
+        "output": "To get a Business Loan, you generally need: Business vintage 3 years, Profitable for last 2 years."
+    },
+    {
+        "instruction": "Tell me about the interest for Gold Loan.",
+        "input": "",
+        "output": "Gold Loan interest rates are currently 7% - 9%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Can I get a Home Loan?",
+        "input": "",
+        "output": "To get a Home Loan, you generally need: Age 23-65, Salaried/Self-employed, Stable Income for 2 years."
+    },
+    {
+        "instruction": "Tell me about the interest for Gold Loan.",
+        "input": "",
+        "output": "Gold Loan interest rates are currently 7% - 9%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Tell me about the interest for Education Loan.",
+        "input": "",
+        "output": "Education Loan interest rates are currently 9.5% - 12%. Check the website for the latest offers."
+    },
+    {
+        "instruction": "Papers for Gold Loan application.",
+        "input": "",
+        "output": "Required documents for Gold Loan: ID Proof, Address Proof, Photos."
+    },
+    {
+        "instruction": "Papers for Business Loan application.",
+        "input": "",
+        "output": "Required documents for Business Loan: Business Registration, GST Returns, Bank Statements (6 months), ITR."
+    },
+    {
+        "instruction": "Papers for Personal Loan application.",
+        "input": "",
+        "output": "Required documents for Personal Loan: ID Proof, Address Proof, Last 3 months Salary Slips, Bank Statements."
+    },
+    {
+        "instruction": "Papers for Car Loan application.",
+        "input": "",
+        "output": "Required documents for Car Loan: Vehicle Quotation, ID Proof, Income Proof, Bank Statement."
+    },
+    {
+        "instruction": "Papers for Personal Loan application.",
+        "input": "",
+        "output": "Required documents for Personal Loan: ID Proof, Address Proof, Last 3 months Salary Slips, Bank Statements."
+    },
+    {
+        "instruction": "Papers for Education Loan application.",
+        "input": "",
+        "output": "Required documents for Education Loan: Admission Letter, Fee Structure, KYC of Student & Co-applicant."
+    }
+]
